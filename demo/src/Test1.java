@@ -6,5 +6,6 @@ public class Test1 {
         System.out.println(6);
         System.out.println(5);
         //测试上传远程仓库
+        //从远程仓库拉取至本地仓库
     }
 }
